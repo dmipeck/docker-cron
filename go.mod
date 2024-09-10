@@ -4,7 +4,7 @@ go 1.23.0
 
 require (
 	github.com/adhocore/gronx v1.19.0
-	github.com/docker/docker v27.1.2+incompatible
+	github.com/docker/docker v27.2.1+incompatible
 )
 
 require (
