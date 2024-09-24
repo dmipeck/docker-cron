@@ -3,7 +3,7 @@ module github.com/dmipeck/docker-cron
 go 1.23.0
 
 require (
-	github.com/adhocore/gronx v1.19.0
+	github.com/adhocore/gronx v1.19.1
 	github.com/docker/docker v27.1.2+incompatible
 )
 
